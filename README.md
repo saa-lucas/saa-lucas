@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Lucas%20Sá&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Lucas%20Sá&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
-  # 📊 Statistics & Data Science | ☁️ Cloud & ML Enthusiast
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saa_lucas.wrk@outlook.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saa-lucas?tab=repositories)
+  # 📊 Statistics & Data Science | ☁️ Cloud & ML Enthusiast
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saa_lucas.wrk@outlook.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saa-lucas?tab=repositories)
 
-  ---
+  ---
 
-  ### ⚡ About Me
-  *Final-year Statistics student at UFC | Technical Project Support @ Gauss Jr. Dedicated to bridging statistical rigor with scalable cloud infrastructures.*
+  ### ⚡ About Me
+  *Final-year Statistics student at UFC | Technical Project Support @ Gauss Jr. Dedicated to bridging statistical rigor with scalable cloud infrastructures.*
 
-  `Machine Learning` • `Cloud Infrastructure` • `Statistical Consulting`
+  `Machine Learning` • `Cloud Infrastructure` • `Statistical Consulting`
 </div>
 
 ---
@@ -41,12 +41,12 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saa-lucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saa-lucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20God%20we%20trust;%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20God%20we%20trust;%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming" />
 </div>
