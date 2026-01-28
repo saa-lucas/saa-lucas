@@ -55,13 +55,13 @@
 
 ### 🎓 Ongoing Learning & Education
 <div align="center">
-  <ul style="list-style-type:none; padding-left:0; max-width:800px;">
+  <ol style="list-style-type:none; padding-left:0; max-width:800px;">
     <li>🎓 <b>B.S. in Statistics</b> - Universidade Federal do Ceará (UFC) | <i>Expected 2026</i></li>
     <li>☁️ <b>AWS Cloud Foundations (CLF-C02)</b> - <a href="https://escoladanuvem.org/">Escola da Nuvem</a> | <i>In Progress</i></li>
     <li>🤖 <b>Azure Data Scientist Associate (DP-100)</b> - <a href="https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100">DIO Bootcamp</a> | <i>In Progress</i></li>
     <li>🐍 <b>Microsoft Python Developer</b> - <a href="https://www.coursera.org/professional-certificates/microsoft-python-developer">Coursera</a> | <i>In Progress</i></li>
     <li>📈 <b>Microsoft Data Visualization</b> - <a href="https://www.coursera.org/professional-certificates/microsoft-data-visualization">Coursera</a> | <i>In Progress</i></li>
-  </ul>
+  </ol>
 </div>
 
 ---
