@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Lucas%20Sá&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
-  # 📊 Statistics & Data Science | ☁️ Cloud Enthusiast
+  # 📊 Statistics & Data Science | ☁️ Cloud & ML Enthusiast
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saa_lucas.wrk@outlook.com)
@@ -10,9 +10,9 @@
   ---
 
   ### ⚡ About Me
-  *Final-year **Statistics** student at **Federal University of Ceará (UFC)** and Consultant at **Gauss Jr.** specializing in turning complex data into strategic business value through mathematical rigor and cloud scalability.*
+  *Final-year **Statistics** student at **Federal University of Ceará (UFC)** and Consultant at **Gauss Jr.** bridging the gap between Statistical Rigor and Scalable Cloud Solutions.*
 
-  `Computational Statistics` • `Predictive Modeling` • `Cloud Infrastructure`
+  `Machine Learning` • `Cloud Infrastructure` • `Statistical Consulting`
 </div>
 
 ---
@@ -30,25 +30,19 @@
 
 ---
 
+### 🎓 Ongoing Learning & Education
+* 🎓 **B.S. in Statistics** - Universidade Federal do Ceará (UFC) | *Expected 2026*
+* ☁️ **AWS Cloud Foundations** - [Escola da Nuvem](https://escoladanuvem.org/) | *In Progress*
+* 🤖 **Azure Data Scientist Associate (DP-100)** - [DIO Bootcamp](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100) | *In Progress*
+* 🐍 **Microsoft Python Developer** - [Professional Certificate / Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer) | *In Progress*
+* 📈 **Microsoft Data Visualization** - [Professional Certificate / Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization) | *In Progress*
+
+---
+
 ### 📊 GitHub Activity
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saa-lucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
-### 🎓 Recent Achievements & Learning
-- 🏆 **Escola da Nuvem:** Cloud Foundations Graduate (Focus on AWS/Azure architectures).
-- 💡 **Gauss Jr. (UFC):** Leading statistical consulting projects for business optimization.
-- 🐍 **Microsoft Python Developer:** Professional Specialization (Coursera/Microsoft).
-- 📑 **Research:** Currently working on advanced statistical analysis and LaTeX reporting (Project Vládia).
-
----
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github-mirror.skyline.github.com/saa-lucas/saa-lucas/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
