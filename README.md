@@ -10,7 +10,7 @@
   ---
 
   ### ⚡ About Me
-  *Final-year Statistics student at the Federal University of Ceará (UFC) | Providing technical project support at Gauss Jr., applying statistical rigor to scalable cloud solutions.*
+  *Final-year Statistics student at UFC | Technical Project Support @ Gauss Jr. Dedicated to bridging statistical rigor with scalable cloud infrastructures.*
 
   `Machine Learning` • `Cloud Infrastructure` • `Statistical Consulting`
 </div>
