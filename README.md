@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Lucas%20Sá&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
-  # 📊 Statistics & Data Science | ☁️ Cloud & ML Enthusiast
+  # Statistics & Data Science | Cloud & ML Enthusiast
   
   <p>
     <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/">
@@ -18,7 +18,7 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 <div align="center">
   <p style="max-width: 800px;">
     Final-year Statistics student at UFC | Technical Project Support @ Gauss Jr.  
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 <div align="center">
   <table>
     <tr>
@@ -53,7 +53,7 @@
 
 ---
 
-### 🎓 Ongoing Learning & Education
+### Ongoing Learning & Education
 <div align="center">
   <ol style="list-style-type:none; padding-left:0; max-width:800px;">
     <li>🎓 <b>B.S. in Statistics</b> - Universidade Federal do Ceará (UFC) | <i>Expected 2026</i></li>
@@ -66,7 +66,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark"/>
