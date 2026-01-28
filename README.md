@@ -10,7 +10,7 @@
   ---
 
   ### ⚡ About Me
-  *Final-year **Statistics** student at **Federal University of Ceará (UFC)** and Consultant at **Gauss Jr.** bridging the gap between Statistical Rigor and Scalable Cloud Solutions.*
+  *Final-year **Statistics** student at **Federal University of Ceará (UFC)** | Technical Project Support @ **Gauss Jr.** bridging the gap between Statistical Rigor and Scalable Cloud Solutions.*
 
   `Machine Learning` • `Cloud Infrastructure` • `Statistical Consulting`
 </div>
@@ -32,7 +32,7 @@
 
 ### 🎓 Ongoing Learning & Education
 * 🎓 **B.S. in Statistics** - Universidade Federal do Ceará (UFC) | *Expected 2026*
-* ☁️ **AWS Cloud Foundations** - [Escola da Nuvem](https://escoladanuvem.org/) | *In Progress*
+* ☁️ **AWS Cloud Foundations (CLF-C02)** - [Escola da Nuvem](https://escoladanuvem.org/) | *In Progress*
 * 🤖 **Azure Data Scientist Associate (DP-100)** - [DIO Bootcamp](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100) | *In Progress*
 * 🐍 **Microsoft Python Developer** - [Professional Certificate / Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer) | *In Progress*
 * 📈 **Microsoft Data Visualization** - [Professional Certificate / Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization) | *In Progress*
