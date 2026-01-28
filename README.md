@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001529&secondaryColor=0077B5&height=250&section=header&text=Lucas%20Sá&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Lucas%20Sá&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
   # 📊 Statistics & Data Science | ☁️ Cloud & ML Enthusiast
   
@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&title_color=0077B5&icon_color=0077B5&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&title_color=0077B5&icon_color=0077B5&text_color=ffffff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark"/>
 </div>
 
 ---
