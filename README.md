@@ -11,7 +11,7 @@
 
 ---
 
-### ⚡ About Me
+### ⚡ About Me:
 <div align="center">
 
 Final-year Statistics student at UFC | Technical Project Support @ Gauss Jr.  
@@ -23,7 +23,7 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack:
 <div align="center">
 
 | | | | | |
@@ -35,7 +35,7 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 
 ---
 
-### 🎓 Ongoing Learning & Education
+### 🎓 Ongoing Learning & Education:
 <div align="center">
 
 1. **B.S. in Statistics** - Universidade Federal do Ceará (UFC) | *Expected 2026*
@@ -48,7 +48,7 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity:
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
