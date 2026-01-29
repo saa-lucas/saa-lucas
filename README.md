@@ -62,4 +62,4 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20God%20we%20trust;%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming&color=0077B5)
 
-</div>>
+</div>
