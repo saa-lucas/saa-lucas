@@ -60,6 +60,6 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d1117&quote_color=0077B5&text_color=c9d1d9&author_color=0077B5&quote=In%20God%20we%20trust;%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d1117&quote_color=0077B5&title_color=0077B5&text_color=c9d1d9&author_color=0077B5&quote=In%20God%20we%20trust;%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming)
 
 </div>
