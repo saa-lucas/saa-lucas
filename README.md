@@ -44,6 +44,7 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 3. **Azure Data Scientist Associate (DP-100)** - [DIO Bootcamp](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100) | *In Progress*
 4. **Microsoft Python Developer** - [Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer) | *In Progress*
 5. **Microsoft Data Visualization** - [Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization) | *In Progress*
+6. **Machine Learning com Python** - [MBA USP/ESALQ](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python) | *In Progress*
 
 </div>
 
