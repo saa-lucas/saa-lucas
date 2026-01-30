@@ -40,11 +40,11 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 <div align="center">
 
 1. **B.S. in Statistics** - Universidade Federal do Ceará (UFC) | *Expected 2026*
-2. **AWS Cloud Foundations (CLF-C02)** - [Escola da Nuvem](https://escoladanuvem.org/) | *In Progress*
+2. **Machine Learning com Python** - [MBA USP/ESALQ](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python) | *In Progress*
 3. **Azure Data Scientist Associate (DP-100)** - [DIO Bootcamp](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100) | *In Progress*
-4. **Microsoft Python Developer** - [Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer) | *In Progress*
-5. **Microsoft Data Visualization** - [Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization) | *In Progress*
-6. **Machine Learning com Python** - [MBA USP/ESALQ](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python) | *In Progress*
+4. **AWS Cloud Foundations (CLF-C02)** - [Escola da Nuvem](https://escoladanuvem.org/) | *In Progress*
+5. **Microsoft Python Developer** - [Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer) | *In Progress*
+6. **Microsoft Data Visualization** - [Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization) | *In Progress*
 
 </div>
 
