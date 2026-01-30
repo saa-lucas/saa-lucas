@@ -53,8 +53,10 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 ### 📊 GitHub Activity:
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&icon_color=0077B5&text_color=ffffff&title_color=0077B5&include_all_commits=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&hide_border=false&title_color=0077B5&icon_color=0077B5)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&icon_color=0077B5&text_color=ffffff&title_color=0077B5&include_all_commits=true&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&hide_border=false&title_color=0077B5&icon_color=0077B5&v=1" />
+</a>
 
 </div>
 
