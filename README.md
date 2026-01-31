@@ -10,7 +10,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saa_lucas.wrk@outlook.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saa-lucas?tab=repositories)
-  [![Lattes](https://img.shields.io/badge/Lattes-00AEEF?style=for-the-badge&logo=cv&logoColor=white)](http://lattes.cnpq.br/ID_DO_SEU_LATTES)
+  [![Lattes](https://img.shields.io/badge/Lattes-00AEEF?style=for-the-badge&logo=cv&logoColor=white)](http://lattes.cnpq.br/6481050681174098)
 
 </div>
 
