@@ -64,7 +64,8 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20God%20we%20trust;%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming&quote_color=0077B5&author_color=0077B5)
-<img src="https://komarev.com/ghpvc/?username=saa-lucas&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20God%20we%20trust;%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming&quote_color=0077B5&author_color=0077B5" />
+  
+  <br/> <img src="https://komarev.com/ghpvc/?username=saa-lucas&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
