@@ -53,8 +53,13 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 ### 📊 GitHub Activity:
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&icon_color=0077B5&text_color=ffffff&title_color=0077B5&include_all_commits=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&hide_border=false&title_color=0077B5&icon_color=0077B5)
+<a href="https://github.com/saa-lucas">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/saa-lucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&hide_border=true&title_color=0077B5&icon_color=0077B5&v=2" />
+</a>
 
 </div>
 
