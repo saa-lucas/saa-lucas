@@ -1,8 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Lucas%20Sá&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
-  # 📊 Statistics & Data Science | ☁️ Cloud & ML Enthusiast
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher" alt="Typing SVG" />
+  </a>
   
+  <br/>
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saa_lucas.wrk@outlook.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saa-luc-as?tab=repositories)
@@ -61,5 +65,8 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20God%20we%20trust;%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming&quote_color=0077B5&author_color=0077B5)
+
+<br/>
+<img src="https://profile-counter.glitch.me/saa-lucas/count.svg" alt="Visitor Count" />
 
 </div>
