@@ -43,12 +43,14 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 ### 🎓 Ongoing Learning & Education:
 <div align="center">
 
-1. **B.S. in Statistics** - Universidade Federal do Ceará (UFC) | *Expected 2026*
-2. **Machine Learning com Python** - [MBA USP/ESALQ](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python) | *In Progress*
-3. **Azure Data Scientist Associate (DP-100)** - [DIO Bootcamp](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100) | *In Progress*
-4. **AWS Cloud Foundations (CLF-C02)** - [Escola da Nuvem](https://escoladanuvem.org/) | *In Progress*
-5. **Microsoft Python Developer** - [Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer) | *In Progress*
-6. **Microsoft Data Visualization** - [Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization) | *In Progress*
+| Course / Certification | Institution (Link) | Status |
+| :--- | :---: | :---: |
+| **B.S. in Statistics** | **UFC** | *Expected 2026* |
+| Machine Learning com Python | [![USP/ESALQ](https://img.shields.io/badge/MBA_USP%2FESALQ-0077B5?style=flat-square&logoColor=white)](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python) | *In Progress* |
+| Azure Data Scientist (DP-100) | [![DIO](https://img.shields.io/badge/DIO_Bootcamp-0077B5?style=flat-square&logoColor=white)](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100) | *In Progress* |
+| AWS Cloud Foundations (CLF-C02) | [![Escola da Nuvem](https://img.shields.io/badge/Escola_da_Nuvem-0077B5?style=flat-square&logoColor=white)](https://escoladanuvem.org/) | *In Progress* |
+| Microsoft Python Developer | [![Coursera](https://img.shields.io/badge/Coursera-0077B5?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/microsoft-python-developer) | *In Progress* |
+| Microsoft Data Visualization | [![Coursera](https://img.shields.io/badge/Coursera-0077B5?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/microsoft-data-visualization) | *In Progress* |
 
 </div>
 
