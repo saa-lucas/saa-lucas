@@ -12,16 +12,15 @@
   </defs>
 
   <rect width="800" height="150" rx="10" fill="#0D1117"/>
-  
   <rect width="800" height="150" fill="url(#dotGrid)" clip-path="url(#round-corner)"/>
 
   <g clip-path="url(#round-corner)">
-    <path d="M-400 100C-200 90 0 120 200 100C400 80 600 110 800 100V150H-400V100Z" fill="#004E92" opacity="0.2">
-      <animateTransform attributeName="transform" type="translate" from="0" to="400" dur="15s" repeatCount="indefinite" />
+    <path d="M-800 100C-600 90 -400 120 -200 100C0 80 200 110 400 100C600 90 800 120 1000 100C1200 80 1400 110 1600 100V150H-800V100Z" fill="#004E92" opacity="0.2">
+      <animateTransform attributeName="transform" type="translate" from="0" to="800" dur="15s" repeatCount="indefinite" />
     </path>
 
-    <path d="M-400 115C-200 105 0 135 200 115C400 95 600 125 800 115V150H-400V115Z" fill="#0077B5" opacity="0.6">
-      <animateTransform attributeName="transform" type="translate" from="0" to="400" dur="10s" repeatCount="indefinite" />
+    <path d="M-800 115C-600 105 -400 135 -200 115C0 95 200 125 400 115C600 105 800 135 1000 115C1200 95 1400 125 1600 115V150H-800V115Z" fill="#0077B5" opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" from="0" to="800" dur="10s" repeatCount="indefinite" />
     </path>
   </g>
 
