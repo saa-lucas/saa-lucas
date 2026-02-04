@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">
-      <a style="cursor: default; pointer-events: none;">
-        <img src="./header.svg?v=5" alt="Lucas Sá" width="100%" style="pointer-events: none;">
+      <a href="javascript:void(0)" style="cursor: default;">
+        <img src="./header.svg?v=7" alt="Lucas Sá" width="100%" style="pointer-events: none;">
       </a>
     </p>
 
