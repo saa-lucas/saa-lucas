@@ -1,6 +1,6 @@
 <div align="center">
     <p align="center">
-      <img src="./header.svg" alt="Lucas Sá Header" width="100%">
+      ![Lucas Sá](./header.svg)
     </p>
 
   <a href="https://git.io/typing-svg">
