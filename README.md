@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">
-      <a href="javascript:void(0)" style="cursor: default;">
-        <img src="./header.svg?v=7" alt="Lucas Sá" width="100%" style="pointer-events: none;">
+      <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank">
+        <img src="./header.svg?v=9" alt="Lucas Sá - LinkedIn" width="100%">
       </a>
     </p>
 
