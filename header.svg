@@ -1,0 +1,28 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          background: linear-gradient(90deg, #000428 0%, #004e92 100%);
+          height: 200px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          color: white;
+          border-radius: 10px;
+        }
+        .wave {
+          position: absolute;
+          bottom: 0;
+          width: 100%;
+        }
+      </style>
+      <div class="container">
+        <h1 style="margin:0; font-size: 40px;">Lucas Sá</h1>
+        <p style="margin:0; opacity: 0.8;">Data Analysis & Development</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
