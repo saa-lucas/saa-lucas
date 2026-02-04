@@ -1,6 +1,6 @@
 <div align="center">
     <p align="center">
-      <img src="./header.svg" alt="Lucas Sá" width="100%">
+      <img src="./header.svg?v=1" alt="Lucas Sá" width="100%">
     </p>
 
   <a href="https://git.io/typing-svg">
