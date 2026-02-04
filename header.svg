@@ -1,25 +1,21 @@
 <svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="round-corner">
+      <rect width="800" height="200" rx="10" />
+    </clipPath>
+  </defs>
+
   <rect width="800" height="200" rx="10" fill="#0D1117"/>
-  
-  <path d="M0 140C120 120 280 180 400 150C520 120 680 140 800 110V200H0V140Z" fill="#004E92" opacity="0.6">
-    <animate 
-      attributeName="d" 
-      dur="5s" 
-      repeatCount="indefinite"
-      values="M0 140C120 120 280 180 400 150C520 120 680 140 800 110V200H0V140Z;
-              M0 130C150 150 350 110 450 140C550 170 700 130 800 150V200H0V130Z;
-              M0 140C120 120 280 180 400 150C520 120 680 140 800 110V200H0V140Z" />
-  </path>
 
-  <path d="M0 160C150 140 300 190 450 160C600 130 750 150 800 140V200H0V160Z" fill="#0071C5">
-    <animate 
-      attributeName="d" 
-      dur="7s" 
-      repeatCount="indefinite"
-      values="M0 160C150 140 300 190 450 160C600 130 750 150 800 140V200H0V160Z;
-              M0 170C120 190 320 150 420 180C520 210 670 170 800 190V200H0V170Z;
-              M0 160C150 140 300 190 450 160C600 130 750 150 800 140V200H0V160Z" />
-  </path>
+  <g clip-path="url(#round-corner)">
+    <path d="M-400 150C-200 140 0 170 200 150C400 130 600 160 800 150C1000 140 1200 170 1400 150V200H-400V150Z" fill="#004E92" opacity="0.4">
+      <animateTransform attributeName="transform" type="translate" from="0" to="400" dur="10s" repeatCount="indefinite" />
+    </path>
 
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="50" font-weight="bold" fill="white">Lucas Sá</text>
+    <path d="M-400 170C-200 160 0 190 200 170C400 150 600 180 800 170C1000 160 1200 190 1400 170V200H-400V170Z" fill="#0077B5">
+      <animateTransform attributeName="transform" type="translate" from="0" to="400" dur="6s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="55" font-weight="bold" fill="#0077B5">Lucas Sá</text>
 </svg>
