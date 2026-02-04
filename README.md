@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="https://koding-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Lucas%20Sá&fontSize=90&animation=fadeIn&fontAlignY=38" />
+    ![Lucas Sá](https://capsule-render.vercel.app/api?type=waving&color=004e92&height=200&section=header&text=Lucas%20Sá&fontSize=90&theme=dark)
   </p>
 
   <a href="https://git.io/typing-svg">
