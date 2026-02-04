@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Lucas%20S%C3%A1&fontSize=90&animation=fadeIn&fontAlignY=38" />
+    <img src="https://kyechan92.github.io/capsule-render/api?type=waving&color=0077B5&height=250&section=header&text=Lucas%20Sá&fontSize=90&animation=fadeIn&fontAlignY=38" />
   </p>
 
   <a href="https://git.io/typing-svg">
