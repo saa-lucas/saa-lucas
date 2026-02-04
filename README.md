@@ -1,9 +1,7 @@
 <div align="center">
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0077B5&center=true&vCenter=true&width=500&height=100&lines=Lucas+Sá;Estatística+UFC;Gauss+Jr." alt="Typing SVG" />
-  </a>
-</p>
+  <p align="center">
+    <img src="https://koding-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Lucas%20Sá&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  </p>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher" alt="Typing SVG" />
