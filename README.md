@@ -1,6 +1,8 @@
 <div align="center">
     <p align="center">
-      <img src="./header.svg?v=5" alt="Lucas Sá" width="100%">
+      <a style="cursor: default; pointer-events: none;">
+        <img src="./header.svg?v=5" alt="Lucas Sá" width="100%" style="pointer-events: none;">
+      </a>
     </p>
 
   <a href="https://git.io/typing-svg">
