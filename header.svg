@@ -1,9 +1,25 @@
 <svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="200" rx="10" fill="#0D1117"/>
   
-  <path d="M0 140C120 120 280 180 400 150C520 120 680 140 800 110V200H0V140Z" fill="#004E92" opacity="0.6"/>
-  <path d="M0 160C150 140 300 190 450 160C600 130 750 150 800 140V200H0V160Z" fill="#0071C5"/>
+  <path d="M0 140C120 120 280 180 400 150C520 120 680 140 800 110V200H0V140Z" fill="#004E92" opacity="0.6">
+    <animate 
+      attributeName="d" 
+      dur="5s" 
+      repeatCount="indefinite"
+      values="M0 140C120 120 280 180 400 150C520 120 680 140 800 110V200H0V140Z;
+              M0 130C150 150 350 110 450 140C550 170 700 130 800 150V200H0V130Z;
+              M0 140C120 120 280 180 400 150C520 120 680 140 800 110V200H0V140Z" />
+  </path>
 
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="45" font-weight="bold" fill="white">Lucas Sá</text>
+  <path d="M0 160C150 140 300 190 450 160C600 130 750 150 800 140V200H0V160Z" fill="#0071C5">
+    <animate 
+      attributeName="d" 
+      dur="7s" 
+      repeatCount="indefinite"
+      values="M0 160C150 140 300 190 450 160C600 130 750 150 800 140V200H0V160Z;
+              M0 170C120 190 320 150 420 180C520 210 670 170 800 190V200H0V170Z;
+              M0 160C150 140 300 190 450 160C600 130 750 150 800 140V200H0V160Z" />
+  </path>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="50" font-weight="bold" fill="white">Lucas Sá</text>
 </svg>
-
