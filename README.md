@@ -54,6 +54,7 @@ Dedicated to bridging statistical rigor with scalable cloud infrastructures.
 | AWS Cloud Foundations (CLF-C02) | [![Escola da Nuvem](https://img.shields.io/badge/Escola_da_Nuvem-0077B5?style=flat-square&logo=icloud&logoColor=white)](https://escoladanuvem.org/) | *In Progress* |
 | Microsoft Python Developer | [![Coursera](https://img.shields.io/badge/Coursera-0077B5?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/microsoft-python-developer) | *In Progress* |
 | Microsoft Data Visualization | [![Coursera](https://img.shields.io/badge/Coursera-0077B5?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/microsoft-data-visualization) | *In Progress* |
+| Mini-course Machine Learning with Python | [![USP/ESALQ](https://img.shields.io/badge/MBA_USP%2FESALQ-0077B5?style=flat-square&logo=googlescholar&logoColor=white)](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python) | *In Progress* |
 
 </div>
 
