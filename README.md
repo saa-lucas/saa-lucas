@@ -51,11 +51,11 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 <br/>
 
-<img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" /> **Azure Data Scientist (DP-100)** | [DIO](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100)  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> **AWS Cloud Foundations** | [Escola da Nuvem](https://escoladanuvem.org/)  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> **Microsoft Python Developer** | [Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer)  
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black" /> **Microsoft Data Visualization** | [Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization)  
-<img src="https://img.shields.io/badge/ML-00AEEF?style=flat&logo=google-scholar&logoColor=white" /> **Machine Learning with Python** | [USP/ESALQ](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python)
+**Azure Data Scientist (DP-100)** | [DIO](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100)  
+**AWS Cloud Foundations** | [Escola da Nuvem](https://escoladanuvem.org/)  
+**Microsoft Python Developer** | [Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer)  
+**Microsoft Data Visualization** | [Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization)  
+**Machine Learning with Python** | [USP/ESALQ](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python)
 
 </div>
 
