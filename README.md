@@ -77,6 +77,18 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 </div>
 
 ---
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
 <div align="center">
     
   <br/> <img src="https://komarev.com/ghpvc/?username=saa-lucas&color=0d1117&style=flat-square&label=Profile+Views" alt="Profile Views" />
