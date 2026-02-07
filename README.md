@@ -1,22 +1,28 @@
 <div align="center">
-    <p align="center">
-      <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank">
-        <img src="./header.svg?v=15" alt="Lucas Sá - LinkedIn" width="100%">
-      </a>
-    </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank">
+      <img src="./header.svg?v=15" alt="Lucas Sá - LinkedIn" width="100%">
+    </a>
+  </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=w&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher">
+      
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher">
+      
+      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher">
+    </picture>
   </a>
   
   <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:saa_lucas.wrk@outlook.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/saa-lucas?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
-  <a href="http://lattes.cnpq.br/6481050681174098"><img src="https://img.shields.io/badge/Lattes-222222?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
-</div>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:saa_lucas.wrk@outlook.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/saa-lucas?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+    <a href="http://lattes.cnpq.br/6481050681174098"><img src="https://img.shields.io/badge/Lattes-222222?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
+  </div>
 
 </div>
 
@@ -43,13 +49,13 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter" style="vertical-align: middle; margin: 0 5px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" width="40" alt="Power BI" style="vertical-align: middle; margin: 0 5px;" />
 
-  <br><br>
+  <br>
 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-black?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 </div>
 
@@ -70,13 +76,13 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 ### 📊 GitHub Activity:
 <div align="center">
-  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&icon_color=0077B5&text_color=ffffff&title_color=0077B5&count_private=true" />
-  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&hide_border=false&title_color=0077B5&icon_color=0077B5&count_private=true" />
+  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true&v=force_update_1" />
+  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" />
 </div>
 
 ---
 <div align="center">
     
-  <br/> <img src="https://komarev.com/ghpvc/?username=saa-lucas&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <br/> <img src="https://komarev.com/ghpvc/?username=saa-lucas&color=000000&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
 </div>
