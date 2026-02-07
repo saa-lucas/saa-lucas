@@ -36,11 +36,19 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 ### 🛠️ My Tech Stack:
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,postgres,aws,azure,github,git,latex&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,vscode&theme=dark" style="vertical-align: middle;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" height="48" width="48" alt="spyder logo" style="vertical-align: middle; margin-left: 4px; margin-right: 4px;" />
+  
+  <img src="https://skillicons.dev/icons?i=r,powerbi,postgres,aws,azure,git,github,latex,obsidian&theme=dark" style="vertical-align: middle;" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat&logo=python&logoColor=white" />
 
 </div>
 
