@@ -36,19 +36,20 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 ### 🛠️ My Tech Stack:
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,vscode&theme=dark" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,aws,azure,git,github,vscode,latex,obsidian&theme=dark" height="48" alt="Skill Icons" style="vertical-align: middle;" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" height="48" width="48" alt="spyder logo" style="vertical-align: middle; margin-left: 4px; margin-right: 4px;" />
-  
-  <img src="https://skillicons.dev/icons?i=r,powerbi,postgres,aws,azure,git,github,latex,obsidian&theme=dark" style="vertical-align: middle;" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="44" width="44" alt="Anaconda" style="vertical-align: middle; margin: 0 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" height="44" width="44" alt="Spyder" style="vertical-align: middle; margin: 0 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="44" width="44" alt="Jupyter" style="vertical-align: middle; margin: 0 4px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="44" width="44" alt="Power BI" style="vertical-align: middle; margin: 0 4px;" />
+
   <br>
 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 </div>
 
