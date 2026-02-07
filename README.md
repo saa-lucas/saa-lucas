@@ -5,21 +5,17 @@
     </a>
   </p>
 
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher&v=fix_theme">
-    
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher&v=fix_theme">
-    
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher&v=fix_theme">
-  </picture>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&background=0d1117&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher" alt="Typing SVG" />
+  </a>
   
   <br/>
 
   <div align="center">
-    <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:saa_lucas.wrk@outlook.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-    <a href="https://github.com/saa-lucas?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
-    <a href="http://lattes.cnpq.br/6481050681174098"><img src="https://img.shields.io/badge/Lattes-black?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
+    <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:saa_lucas.wrk@outlook.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/saa-lucas?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+    <a href="http://lattes.cnpq.br/6481050681174098"><img src="https://img.shields.io/badge/Lattes-0d1117?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
   </div>
 
 </div>
@@ -49,11 +45,11 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
   <br>
 
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-black?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 </div>
 
