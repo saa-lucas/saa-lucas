@@ -70,9 +70,9 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 ### 📊 GitHub Activity:
 <div align="center">
-  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&count_private=true&v=card_style_back" />
+  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&v=white_fix_1" />
   
-  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&count_private=true&v=card_style_back" />
+  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&v=white_fix_1" />
 </div>
 
 ---
