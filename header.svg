@@ -19,7 +19,8 @@
 
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
         font-family="'JetBrains Mono', 'Cascadia Code', monospace" 
-        font-size="65" font-weight="800" letter-spacing="-2" fill="#0077B5">
+        font-size="65" font-weight="800" letter-spacing="-2" fill="#ffffff">
     Lucas Sá
   </text>
 </svg>
+
