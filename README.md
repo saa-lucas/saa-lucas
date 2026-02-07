@@ -38,12 +38,12 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
   <img src="https://skillicons.dev/icons?i=python,r,postgres,aws,azure,git,github,vscode,latex,obsidian&theme=dark" height="48" alt="Skill Icons" style="vertical-align: middle;" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="44" width="44" alt="Anaconda" style="vertical-align: middle; margin: 0 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" height="44" width="44" alt="Spyder" style="vertical-align: middle; margin: 0 4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="44" width="44" alt="Jupyter" style="vertical-align: middle; margin: 0 4px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="44" width="44" alt="Power BI" style="vertical-align: middle; margin: 0 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" width="40" alt="Anaconda" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" height="40" width="40" alt="Spyder" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter" style="vertical-align: middle; margin: 0 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" width="40" alt="Power BI" style="vertical-align: middle; margin: 0 5px;" />
 
-  <br>
+  <br><br>
 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
