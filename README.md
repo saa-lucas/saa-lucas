@@ -5,23 +5,21 @@
     </a>
   </p>
 
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher">
-      
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher">
-      
-      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher&v=fix_theme">
+    
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher&v=fix_theme">
+    
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=450&lines=Statistics+%26+Data+Science;Cloud+%26+ML+Enthusiast;Python+%26+R+Developer;Gamer+%26+Teacher&v=fix_theme">
+  </picture>
   
   <br/>
 
   <div align="center">
     <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:saa_lucas.wrk@outlook.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-    <a href="https://github.com/saa-lucas?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
-    <a href="http://lattes.cnpq.br/6481050681174098"><img src="https://img.shields.io/badge/Lattes-222222?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
+    <a href="mailto:saa_lucas.wrk@outlook.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/saa-lucas?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+    <a href="http://lattes.cnpq.br/6481050681174098"><img src="https://img.shields.io/badge/Lattes-black?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
   </div>
 
 </div>
@@ -76,8 +74,9 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 ### 📊 GitHub Activity:
 <div align="center">
-  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true&v=force_update_1" />
-  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" />
+  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&count_private=true&v=card_style_back" />
+  
+  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&count_private=true&v=card_style_back" />
 </div>
 
 ---
