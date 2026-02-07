@@ -11,10 +11,10 @@
   
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saa_lucas.wrk@outlook.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saa-lucas?tab=repositories)
-  [![Lattes](https://img.shields.io/badge/Lattes-00AEEF?style=for-the-badge&logo=cv&logoColor=white)](http://lattes.cnpq.br/6481050681174098)
+  <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:saa_lucas.wrk@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/saa-lucas?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+  <a href="http://lattes.cnpq.br/6481050681174098"><img src="https://img.shields.io/badge/Lattes-00AEEF?style=for-the-badge&logo=cv&logoColor=white" alt="Lattes"></a>
 
 </div>
 
@@ -34,17 +34,11 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 ### 🛠️ My Tech Stack:
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,r,postgres,aws,azure,github,git,latex&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black" />
 
 </div>
 
@@ -57,11 +51,11 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 <br/>
 
-Azure Data Scientist (DP-100) | [![DIO](https://img.shields.io/badge/DIO-0077B5?style=flat-square&logo=icloud&logoColor=white)](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100)  
-AWS Cloud Foundations | [![Escola da Nuvem](https://img.shields.io/badge/Escola_da_Nuvem-0077B5?style=flat-square&logo=icloud&logoColor=white)](https://escoladanuvem.org/)  
-Microsoft Python Developer | [![Coursera](https://img.shields.io/badge/Coursera-0077B5?style=flat-square&logo=icloud&logoColor=white)](https://www.coursera.org/professional-certificates/microsoft-python-developer)  
-Microsoft Data Visualization | [![Coursera](https://img.shields.io/badge/Coursera-0077B5?style=flat-square&logo=icloud&logoColor=white)](https://www.coursera.org/professional-certificates/microsoft-data-visualization)  
-Machine Learning with Python | [![USP/ESALQ](https://img.shields.io/badge/MBA_USP%2FESALQ-0077B5?style=flat-square&logo=googlescholar&logoColor=white)](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python)
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" /> **Azure Data Scientist (DP-100)** | [DIO](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100)  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> **AWS Cloud Foundations** | [Escola da Nuvem](https://escoladanuvem.org/)  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> **Microsoft Python Developer** | [Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer)  
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black" /> **Microsoft Data Visualization** | [Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization)  
+<img src="https://img.shields.io/badge/ML-00AEEF?style=flat&logo=google-scholar&logoColor=white" /> **Machine Learning with Python** | [USP/ESALQ](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python)
 
 </div>
 
