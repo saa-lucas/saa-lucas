@@ -72,16 +72,12 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 ### 📊 GitHub Activity:
 <div align="center">
   <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&v=white_fix_1" />
-  
   <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&v=white_fix_1" />
 </div>
 
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-bw.svg">
   </picture>
 </div>
 
