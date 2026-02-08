@@ -15,6 +15,7 @@
   <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:saa_lucas.wrk@outlook.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
   <a href="http://lattes.cnpq.br/6481050681174098"><img src="https://img.shields.io/badge/Lattes-0d1117?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
+  <a href="https://orcid.org/SEU_NUMERO_AQUI"><img src="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 </div>
 
 </div>
