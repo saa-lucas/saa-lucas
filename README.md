@@ -62,7 +62,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 | **Certification / Degree** | **Institution** | **Status** |
 | :--- | :--- | :---: |
 | **B.S. in Statistics** | UFC | ⚫ 2026 |
-| **Azure Data Scientist (DP-100)** | [DIO](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100) | ⚪ Active |
+| **Azure Data Scientist** | [DIO](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100) | ⚪ Active |
 | **AWS Cloud Foundations** | [Escola da Nuvem](https://escoladanuvem.org/) | ⚪ Active |
 | **Microsoft Python Developer** | [Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer) | ⚪ Active |
 | **Microsoft Data Visualization** | [Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization) | ⚪ Active |
