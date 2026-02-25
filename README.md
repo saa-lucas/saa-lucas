@@ -12,7 +12,6 @@
   />
 </p>
   
-  <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
