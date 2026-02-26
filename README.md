@@ -12,7 +12,7 @@ Repository for academic projects, research, and technical outreach activities de
 ---
 
 ## 📂 Repository Structure
-* **`/Extension-and-Teaching-Assistantship/`**: Materials developed for academic monitoring and technical outreach events (Gauss Jr., SEST).
+* **`/Extension-and-Teaching-Assistantship/`**: Materials developed for academic monitoring and technical outreach events (Gauss Jr., SEst).
 * **`/Projects/`**: Academic papers and statistical modeling scripts.
 
 ---
