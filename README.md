@@ -65,10 +65,6 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 | :--- | :--- | :---: |
 | **B.S. in Statistics** | UFC | ⚫ 2026 |
 | **AWS Cloud Foundations** | [Escola da Nuvem](https://escoladanuvem.org/) | ⚪ Active |
-<!-- | **Azure Data Scientist** | [DIO](https://www.dio.me/bootcamp/microsoft-certification-challenge-dp-100) | ⚪ Active | 
-| **Microsoft Python Developer** | [Coursera](https://www.coursera.org/professional-certificates/microsoft-python-developer) | ⚪ Active |
-| **Microsoft Data Visualization** | [Coursera](https://www.coursera.org/professional-certificates/microsoft-data-visualization) | ⚪ Active |
-| **Machine Learning with Python** | [USP/ESALQ](https://mbauspesalq.com/minicursos/introducao-ao-machine-learning-com-python) | ⚪ Active | -->
 
 ---
 
@@ -76,7 +72,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Python Data Treatment Course - SEst 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Technical course developed for the Statistics Week at UFC. Includes full documentation and **[event gallery](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/#-event-records)**. | `Python`, `Pandas`, `Seaborn`, `EDA` |
+| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Technical course developed for the Statistics Week at UFC. Includes full documentation and **[event records](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/#-event-records)**. | `Python`, `Pandas`, `Seaborn`, `EDA` |
 | **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | End-to-end HR data pipeline. Analyzes workforce distribution, salary disparities, and correlation between age and compensation. | `Python`, `Pandas`, `Matplotlib`, `HR Analytics` |
 
 ---
