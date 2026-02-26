@@ -38,7 +38,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 ### 🛠️ My Tech Stack:
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,r,aws,git,github,vscode,latex,obsidian&theme=dark" height="48" alt="Skill Icons" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=python,r,aws,azure,git,github,vscode,latex,obsidian&theme=dark" height="48" alt="Skill Icons" style="vertical-align: middle;" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" width="40" alt="SQL Server" style="vertical-align: middle; margin: 0 5px;" />
   
