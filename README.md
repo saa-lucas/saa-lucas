@@ -3,11 +3,11 @@ Repository for academic projects, research, and technical outreach activities de
 
 ## 🌟 Featured Projects
 
-### 🐍 [Python Data Treatment Course - SEst 2025](./Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)
+### 🐍 [Python Data Treatment Course - SEst 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst)
 **Technical Coordinator & Instructor (Gauss Jr.)**
 * **Scope:** 2-day intensive workshop on Data Wrangling and Exploratory Data Analysis (EDA).
 * **Context:** Simulation based on the **`br_anatel_indice_brasileiro_conectividade_municipio`** dataset to solve real-world public infrastructure challenges.
-* **Content:** Includes full documentation, source code, and [event gallery](./Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/#-event-gallery).
+* **Content:** Includes full documentation, source code, and [event gallery](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst#-event-gallery).
 
 ---
 
