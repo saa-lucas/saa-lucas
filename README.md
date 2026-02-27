@@ -72,7 +72,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Technical course developed for the Statistics Week at UFC. Includes full documentation and **[event records](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/#-event-records)**. | `Python`, `Pandas`, `Seaborn`, `EDA` |
+| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Technical course developed for the Statistics Week at UFC. Includes full documentation and **[event records](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/#-event-records)**. | `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `EDA` |
 | **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | End-to-end HR data pipeline. Analyzes workforce distribution, salary disparities, and correlation between age and compensation. | `Python`, `Pandas`, `Matplotlib`, `HR Analytics` |
 
 ---
