@@ -41,7 +41,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
   <img src="https://skillicons.dev/icons?i=js,python,r,aws,git,github,vscode,latex,obsidian&theme=dark" alt="Skill Icons" />
   
-  <br><br>
+  <br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="Anaconda" />
