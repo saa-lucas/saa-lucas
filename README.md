@@ -48,7 +48,8 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" height="48" alt="Spyder" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
-
+  
+  <br>
 
   <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white" />
