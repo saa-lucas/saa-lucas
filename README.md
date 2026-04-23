@@ -74,9 +74,9 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Vida em Padrões (Life in Patterns)](https://github.com/saa-lucas/Endlos-Planner)** | A comprehensive productivity and habit-tracking system. Features an automated data pipeline using Google Apps Script and interactive dashboards for deep behavioral analysis. | `Apps Script`, `JavaScript`, `Clasp`, `Analytics` |
-| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Technical course developed for the Statistics Week at UFC. Includes full documentation and **[event records](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/#-event-records)**. | `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `EDA` |
-| **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | End-to-end HR data pipeline. Analyzes workforce distribution, salary disparities, and correlation between age and compensation. | `Python`, `Pandas`, `Matplotlib`, `HR Analytics` |
+| **[Vida em Padrões](https://github.com/saa-lucas/Endlos-Planner)** | **Life in Patterns**: A behavioral intelligence system for productivity tracking. Features an automated data pipeline built with Google Apps Script and interactive dashboards for deep pattern analysis and decision-making. | `Apps Script`, `JavaScript`, `Clasp`, `Analytics` |
+| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Technical course designed and delivered during UFC's Statistics Week. Covers data cleaning, EDA, and visualization with real-world datasets. Includes full documentation and **[event records](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/#-event-records)**. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `EDA` |
+| **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | End-to-end HR analytics pipeline. Explores workforce distribution, salary inequality, and age-compensation dynamics through data-driven insights. | `Python`, `Pandas`, `Matplotlib`, `HR Analytics` |
 
 ---
 
