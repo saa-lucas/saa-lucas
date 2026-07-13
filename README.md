@@ -66,7 +66,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 | **Certification / Degree** | **Institution** | **Status** |
 | :--- | :--- | :---: |
 | **B.S. in Statistics** | UFC | ⚫ 2026 |
-| **[AWS re/Start Graduate]([SEU_LINK_AQUI])** | Escola da Nuvem | ⚫ 2026 |
+| **[AWS re/Start Graduate]([https://www.credly.com/badges/ecc9d3f7-edf5-4a58-93ff-6355cac2927b/linked_in_profile])** | Escola da Nuvem | ⚫ 2026 |
 
 ---
 
