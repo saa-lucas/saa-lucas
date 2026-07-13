@@ -66,7 +66,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 | **Certification / Degree** | **Institution** | **Status** |
 | :--- | :--- | :---: |
 | **B.S. in Statistics** | UFC | ⚫ 2026 |
-| **AWS Cloud Foundations** | [Escola da Nuvem](https://escoladanuvem.org/) | ⚫ 2026 |
+| **[AWS re/Start Graduate]([SEU_LINK_AQUI])** | Escola da Nuvem | ⚫ 2026 |
 
 ---
 
@@ -85,9 +85,16 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 ---
 
 ### 📊 GitHub Activity:
+
 <div align="center">
-  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&v=white_fix_1&v=20260423_refresh" />
-  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&v=white_fix_1&v=20260424_refresh" />
+  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&count_private=true" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&count_private=true" alt="Top Langs" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&theme=dark&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
