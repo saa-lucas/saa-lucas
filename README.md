@@ -66,7 +66,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 | **Certification / Degree** | **Institution** | **Status** |
 | :--- | :--- | :---: |
 | **B.S. in Statistics** | UFC | ⚫ 2026 |
-| **AWS Cloud Foundations** | [Escola da Nuvem](https://escoladanuvem.org/) | ⚪ Active |
+| **AWS Cloud Foundations** | [Escola da Nuvem](https://escoladanuvem.org/) | ⚫ 2026 |
 
 ---
 
