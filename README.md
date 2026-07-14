@@ -144,14 +144,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
   </picture>
 </div>
 
-  <div align="center">
-    <picture>
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-bw.svg">
-    </picture>
-  </div>
-
 ---
-
 <div align="center">
     
   <br/> 
