@@ -1,7 +1,10 @@
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank">
-      <img src="./header.svg?v=15" alt="Lucas Sá - LinkedIn" width="100%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/header-dark.svg?v=15">
+        <img src="./img/header-light.svg?v=15" alt="Lucas Sá - LinkedIn" width="100%">
+      </picture>
     </a>
   </p>
 
@@ -12,12 +15,31 @@
   </picture>
 </p>
   
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:saa_lucas.wrk@outlook.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="http://lattes.cnpq.br/6481050681174098"><img src="https://img.shields.io/badge/Lattes-0d1117?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
-  <a href="https://orcid.org/0009-0004-5139-0915"><img src="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-F6F8FA?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">
+    </picture>
+  </a>
+  <a href="mailto:saa_lucas.wrk@outlook.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+      <img src="https://img.shields.io/badge/Email-F6F8FA?style=for-the-badge&logo=microsoft-outlook&logoColor=black" alt="Email">
+    </picture>
+  </a>
+  <a href="http://lattes.cnpq.br/6481050681174098">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Lattes-0d1117?style=for-the-badge&logo=googlescholar&logoColor=white">
+      <img src="https://img.shields.io/badge/Lattes-F6F8FA?style=for-the-badge&logo=googlescholar&logoColor=black" alt="Lattes">
+    </picture>
+  </a>
+  <a href="https://orcid.org/0009-0004-5139-0915">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=white">
+      <img src="https://img.shields.io/badge/ORCID-F6F8FA?style=for-the-badge&logo=orcid&logoColor=black" alt="ORCID">
+    </picture>
+  </a>
 </div>
 
 </div>
@@ -39,7 +61,10 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,python,r,aws,git,github,vscode,latex,obsidian&theme=dark" alt="Skill Icons" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,python,r,aws,git,github,vscode,latex,obsidian&theme=dark">
+    <img src="https://skillicons.dev/icons?i=js,python,r,aws,git,github,vscode,latex,obsidian&theme=light" alt="Skill Icons">
+  </picture>
   
   <br>
 
@@ -51,11 +76,26 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
   
   <br>
 
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/Pandas-F6F8FA?style=for-the-badge&logo=pandas&logoColor=black">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/NumPy-F6F8FA?style=for-the-badge&logo=numpy&logoColor=black">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Matplotlib-F6F8FA?style=for-the-badge&logo=python&logoColor=black">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Seaborn-F6F8FA?style=for-the-badge&logo=python&logoColor=black">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/Scikit_Learn-F6F8FA?style=for-the-badge&logo=scikit-learn&logoColor=black">
+  </picture>
 
 </div>
 
@@ -65,8 +105,8 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 | **Certification / Degree** | | **Institution** | | **Status** |
 | :--- | :---: | :--- | :---: | :---: |
-| **[B.S. in Statistics](https://dema.ufc.br/pt/estrutura_curricular_estatistica_2010_1/)** | <picture><source media="(prefers-color-scheme: dark)" srcset="./img/logo-est-dark.png"><img src="./img/logo-est-light.png" width="35"></picture> | [Universidade Federal do Ceará (UFC)](https://www.ufc.br/a-universidade) | <img src="./img/logo-ufc.png" width="35"> | ⚫ 2026 |
-| **[AWS re/Start Graduate](https://www.credly.com/badges/ecc9d3f7-edf5-4a58-93ff-6355cac2927b/linked_in_profile)** | <img src="./img/aws-restart-badge.png" width="35"> | [Escola da Nuvem](https://en.escoladanuvem.org/) | <img src="./img/logo-edn.png" width="35"> | ⚫ 2026 |
+| **[B.S. in Statistics](https://dema.ufc.br/pt/estrutura_curricular_estatistica_2010_1/)** | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/logo-est-dark.png"><img src="./img/logo-est-light.png" width="35"></picture></div> | [Universidade Federal do Ceará (UFC)](https://www.ufc.br/a-universidade) | <div align="center"><img src="./img/logo-ufc.png" width="35"></div> | ⚫ 2026 |
+| **[AWS re/Start Graduate](https://www.credly.com/badges/ecc9d3f7-edf5-4a58-93ff-6355cac2927b/linked_in_profile)** | <div align="center"><img src="./img/aws-restart-badge.png" width="35"></div> | [Escola da Nuvem](https://en.escoladanuvem.org/) | <div align="center"><img src="./img/logo-edn.png" width="35"></div> | ⚫ 2026 |
 
 ---
 
