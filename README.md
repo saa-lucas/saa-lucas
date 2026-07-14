@@ -1,7 +1,10 @@
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank">
-      <img src="./header.svg?v=15" alt="Lucas Sá - LinkedIn" width="100%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/header-dark.svg?v=15">
+        <img src="./img/header-light.svg?v=15" alt="Lucas Sá - LinkedIn" width="100%">
+      </picture>
     </a>
   </p>
 
@@ -12,12 +15,8 @@
   </picture>
 </p>
   
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:saa_lucas.wrk@outlook.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="http://lattes.cnpq.br/6481050681174098"><img src="https://img.shields.io/badge/Lattes-0d1117?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
-  <a href="https://orcid.org/0009-0004-5139-0915"><img src="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+<a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></picture></a><a href="mailto:saa_lucas.wrk@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=white"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=microsoft-outlook&logoColor=black" alt="Email"></picture></a><a href="http://lattes.cnpq.br/6481050681174098"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Lattes-0d1117?style=for-the-badge&logo=googlescholar&logoColor=white"><img src="https://img.shields.io/badge/Lattes-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=black" alt="Lattes"></picture></a><a href="https://orcid.org/0009-0004-5139-0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=white"><img src="https://img.shields.io/badge/ORCID-FFFFFF?style=for-the-badge&logo=orcid&logoColor=black" alt="ORCID"></picture></a>
 </div>
 
 </div>
@@ -39,23 +38,41 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,python,r,aws,git,github,vscode,latex,obsidian&theme=dark" alt="Skill Icons" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cpython%2Cr%2Caws%2Cgit%2Cgithub%2Cvscode%2Clatex%2Cobsidian&theme=dark">
+    <img src="https://skillicons.dev/icons?i=js%2Cpython%2Cr%2Caws%2Cgit%2Cgithub%2Cvscode%2Clatex%2Cobsidian&theme=light" alt="Skill Icons">
+  </picture>
   
   <br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="Anaconda" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" height="48" alt="Spyder" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="Anaconda" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" height="48" alt="Spyder" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
+  </picture>
   
   <br>
 
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/Scikit_Learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=black"></picture>
 
 </div>
 
@@ -65,8 +82,8 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 | **Certification / Degree** | | **Institution** | | **Status** |
 | :--- | :---: | :--- | :---: | :---: |
-| **[B.S. in Statistics](https://dema.ufc.br/pt/estrutura_curricular_estatistica_2010_1/)** | <picture><source media="(prefers-color-scheme: dark)" srcset="./img/logo-est-dark.png"><img src="./img/logo-est-light.png" width="35"></picture> | [Universidade Federal do Ceará (UFC)](https://www.ufc.br/a-universidade) | <img src="./img/logo-ufc.png" width="35"> | ⚫ 2026 |
-| **[AWS re/Start Graduate](https://www.credly.com/badges/ecc9d3f7-edf5-4a58-93ff-6355cac2927b/linked_in_profile)** | <img src="./img/aws-restart-badge.png" width="35"> | [Escola da Nuvem](https://en.escoladanuvem.org/) | <img src="./img/logo-edn.png" width="35"> | ⚫ 2026 |
+| **[B.S. in Statistics](https://dema.ufc.br/pt/estrutura_curricular_estatistica_2010_1/)** | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/logo-est-dark.png"><img src="./img/logo-est-light.png" width="35"></picture></div> | [Universidade Federal do Ceará (UFC)](https://www.ufc.br/a-universidade) | <div align="center"><img src="./img/logo-ufc.png" width="35"></div> | ⚫ 2026 |
+| **[AWS re/Start Graduate](https://www.credly.com/badges/ecc9d3f7-edf5-4a58-93ff-6355cac2927b/linked_in_profile)** | <div align="center"><img src="./img/aws-restart-badge.png" width="35"></div> | [Escola da Nuvem](https://en.escoladanuvem.org/) | <div align="center"><img src="./img/logo-edn.png" width="35"></div> | ⚫ 2026 |
 
 ---
 
@@ -87,25 +104,37 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 ### 📊 GitHub Activity:
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&count_private=true" alt="GitHub Stats" />
-  <img width="400" src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&count_private=true" alt="Top Langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&count_private=true">
+    <img src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=586069&icon_color=000000&count_private=true" alt="GitHub Stats" width="400" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&count_private=true">
+    <img src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=586069&count_private=true" alt="Top Langs" width="400" />
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&theme=dark&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&background=FFFFFF&stroke=FFFFFF&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=586069&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div align="center">
   <picture>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-bw.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-light.svg" alt="github contribution grid snake animation">
   </picture>
 </div>
 
 ---
 <div align="center">
-    
-  <br/> <img src="https://komarev.com/ghpvc/?username=saa-lucas&color=0d1117&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=saa-lucas&color=444c56&style=flat-square&label=Profile+Views">
+    <img src="https://komarev.com/ghpvc/?username=saa-lucas&color=000000&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </picture>
 </div>
