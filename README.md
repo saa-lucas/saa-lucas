@@ -82,7 +82,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 | **Certification / Degree** | | **Institution** | | **Status** |
 | :--- | :---: | :--- | :---: | :---: |
-| **[B.S. in Statistics](https://dema.ufc.br/pt/estrutura_curricular_estatistica_2010_1/)** | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/logo-est-dark.png"><img src="./img/logo-est-light.png" width="35"></picture></div> | [Universidade Federal do Ceará (UFC)](https://www.ufc.br/a-universidade) | <div align="center"><img src="./img/logo-ufc.png" width="35"></div> | ⚫ 2026 |
+| **[B.S. in Statistics](https://dema.ufc.br/pt/estrutura_curricular_estatistica_2010_1/)** | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/logo-est-dark.png"><img src="./img/logo-est-light.png" width="35"></picture></div> | [Universidade Federal do Ceará (UFC)](https://www.ufc.br/a-universidade) | <div align="center"><img src="./img/logo-ufc.png" width="35"></div> | ⚪ 2026 |
 | **[AWS re/Start Graduate](https://www.credly.com/badges/ecc9d3f7-edf5-4a58-93ff-6355cac2927b/linked_in_profile)** | <div align="center"><img src="./img/aws-restart-badge.png" width="35"></div> | [Escola da Nuvem](https://en.escoladanuvem.org/) | <div align="center"><img src="./img/logo-edn.png" width="35"></div> | ⚫ 2026 |
 
 ---
