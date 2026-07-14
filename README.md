@@ -128,7 +128,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 <div align="center">
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=saa-lucas&color=2f81f7&style=flat-square&label=Profile+Views">
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=saa-lucas&color=444c56&style=flat-square&label=Profile+Views">
     <img src="https://komarev.com/ghpvc/?username=saa-lucas&color=000000&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </picture>
 </div>
