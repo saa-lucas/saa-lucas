@@ -112,18 +112,12 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&count_private=true">
     <img src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=586069&count_private=true" alt="Top Langs" width="400" />
   </picture>
-</div>
 
-<br>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&background=FFFFFF&stroke=FFFFFF&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=586069&hide_border=true" alt="GitHub Streak" />
   </picture>
-</div>
 
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-dark.svg">
     <img src="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-light.svg" alt="github contribution grid snake animation">
