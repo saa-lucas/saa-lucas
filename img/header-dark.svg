@@ -5,10 +5,10 @@
     </clipPath>
   </defs>
 
-  <rect width="800" height="150" rx="10" fill="#0D1117"/>
+  <!-- Fundo transparente: a tag rect com a cor foi removida daqui -->
 
   <g clip-path="url(#round-corner)">
-<path d="M-800 100C-600 90 -400 120 -200 100C0 80 200 110 400 100C600 90 800 120 1000 100C1200 80 1400 110 1600 100V150H-800V100Z" fill="#2f81f7" opacity="0.2">
+    <path d="M-800 100C-600 90 -400 120 -200 100C0 80 200 110 400 100C600 90 800 120 1000 100C1200 80 1400 110 1600 100V150H-800V100Z" fill="#2f81f7" opacity="0.2">
       <animateTransform attributeName="transform" type="translate" from="0" to="800" dur="18s" repeatCount="indefinite" />
     </path>
 
