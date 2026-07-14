@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/header-dark.svg?v=15">
-        <img src="./img/header-light.svg?v=15" alt="Lucas Sá - LinkedIn" width="100%">
+        <img src="./header.svg?v=15" alt="Lucas Sá - LinkedIn" width="100%">
       </picture>
     </a>
   </p>
