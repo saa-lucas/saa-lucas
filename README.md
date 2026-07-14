@@ -119,7 +119,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-soft-dark.svg">
     <img src="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-light.svg" alt="github contribution grid snake animation">
   </picture>
 </div>
