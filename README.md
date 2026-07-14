@@ -2,21 +2,21 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/header-dark.svg?v=15">
-        <img src="./img/header-light.svg?v=15" alt="Lucas Sá - LinkedIn" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="./img/header-soft-dark.svg?v=16">
+        <img src="./img/header-light.svg?v=16" alt="Lucas Sá - LinkedIn" width="100%">
       </picture>
     </a>
   </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=500&lines=Statistics+Student+%7C+UFC;Data+Analysis;AWS+%7C+Python+%7C+SQL;Building+Data+Infrastructure">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c9d1d9&background=212830&center=true&vCenter=true&width=500&lines=Statistics+Student+%7C+UFC;Data+Analysis;AWS+%7C+Python+%7C+SQL;Building+Data+Infrastructure">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&lines=Statistics+Student+%7C+UFC;Data+Analysis;AWS+%7C+Python+%7C+SQL;Building+Data+Infrastructure" alt="Typing SVG">
   </picture>
 </p>
   
 <div align="center">
-<a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></picture></a><a href="mailto:saa_lucas.wrk@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=microsoft-outlook&logoColor=white"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=microsoft-outlook&logoColor=black" alt="Email"></picture></a><a href="http://lattes.cnpq.br/6481050681174098"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Lattes-0d1117?style=for-the-badge&logo=googlescholar&logoColor=white"><img src="https://img.shields.io/badge/Lattes-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=black" alt="Lattes"></picture></a><a href="https://orcid.org/0009-0004-5139-0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=white"><img src="https://img.shields.io/badge/ORCID-FFFFFF?style=for-the-badge&logo=orcid&logoColor=black" alt="ORCID"></picture></a>
+<a href="https://www.linkedin.com/in/lucas-s%C3%A1-140a66368/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-212830?style=for-the-badge&logo=linkedin&logoColor=white"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></picture></a><a href="mailto:saa_lucas.wrk@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-212830?style=for-the-badge&logo=microsoft-outlook&logoColor=white"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=microsoft-outlook&logoColor=black" alt="Email"></picture></a><a href="http://lattes.cnpq.br/6481050681174098"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Lattes-212830?style=for-the-badge&logo=googlescholar&logoColor=white"><img src="https://img.shields.io/badge/Lattes-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=black" alt="Lattes"></picture></a><a href="https://orcid.org/0009-0004-5139-0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ORCID-212830?style=for-the-badge&logo=orcid&logoColor=white"><img src="https://img.shields.io/badge/ORCID-FFFFFF?style=for-the-badge&logo=orcid&logoColor=black" alt="ORCID"></picture></a>
 </div>
 
 </div>
@@ -68,11 +68,11 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
   
   <br>
 
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=black"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/Scikit_Learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-212830?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-212830?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Matplotlib-212830?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Seaborn-212830?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Scikit_Learn-212830?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/Scikit_Learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=black"></picture>
 
 </div>
 
@@ -105,21 +105,21 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&hide_border=true&bg_color=212830&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&count_private=true">
     <img src="https://github-readme-stats-rosy-sigma-80.vercel.app/api?username=saa-lucas&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=586069&icon_color=000000&count_private=true" alt="GitHub Stats" width="400" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&hide_border=true&bg_color=212830&title_color=ffffff&text_color=c9d1d9&count_private=true">
     <img src="https://github-readme-stats-rosy-sigma-80.vercel.app/api/top-langs/?username=saa-lucas&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=586069&count_private=true" alt="Top Langs" width="400" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&background=212830&stroke=212830&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&background=FFFFFF&stroke=FFFFFF&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=586069&hide_border=true" alt="GitHub Streak" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-soft-dark.svg">
     <img src="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-light.svg" alt="github contribution grid snake animation">
   </picture>
 </div>
@@ -128,7 +128,7 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 <div align="center">
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=saa-lucas&color=444c56&style=flat-square&label=Profile+Views">
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=saa-lucas&color=2f81f7&style=flat-square&label=Profile+Views">
     <img src="https://komarev.com/ghpvc/?username=saa-lucas&color=000000&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </picture>
 </div>
