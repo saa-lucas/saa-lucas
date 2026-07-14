@@ -6,10 +6,10 @@
   </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=500&lines=Statistics+Student+%7C+UFC;Data+Analysis;AWS+%7C+Python+%7C+SQL;Building+Data+Infrastructure" 
-    alt="Typing SVG" 
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=500&lines=Statistics+Student+%7C+UFC;Data+Analysis;AWS+%7C+Python+%7C+SQL;Building+Data+Infrastructure">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&lines=Statistics+Student+%7C+UFC;Data+Analysis;AWS+%7C+Python+%7C+SQL;Building+Data+Infrastructure" alt="Typing SVG">
+  </picture>
 </p>
   
 
