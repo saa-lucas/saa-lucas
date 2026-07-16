@@ -26,11 +26,25 @@
 ### ⚡ About Me:
 <div align="center">
 
-Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss Jr.** Dedicated to bridging statistical rigor with scalable cloud infrastructures.
-
-`Machine Learning` • `Cloud Infrastructure` • `Statistical Consulting`
+Final-year Statistics student at **Federal University of Ceará (UFC)** and Technical Project Support at **Gauss Jr.** Interested in statistical modeling, data engineering, and cloud computing, with hands-on experience developing analytical solutions using Python, SQL, and AWS.
 
 </div>
+
+### 🎯 Current Focus:
+<div align="center">
+
+`Statistical Modeling` • `AWS Cloud` • `Data Engineering` • `Machine Learning`
+
+</div>
+
+---
+
+### 💼 Experience:
+
+**Technical Project Support** | **Gauss Jr.**
+* Collaborated on statistical consulting projects for external clients.
+* Developed educational content and delivered practical Python workshops.
+* Assisted with data preprocessing, statistical analysis, and technical documentation.
 
 ---
 
@@ -39,8 +53,8 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cpython%2Cr%2Caws%2Cgit%2Cgithub%2Cvscode%2Clatex%2Cobsidian&theme=dark">
-    <img src="https://skillicons.dev/icons?i=js%2Cpython%2Cr%2Caws%2Cgit%2Cgithub%2Cvscode%2Clatex%2Cobsidian&theme=light" alt="Skill Icons">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cpython%2Cr%2Caws%2Cgit%2Cgithub%2Cvscode%2Clatex%2Cobsidian%2Clinux&theme=dark">
+    <img src="https://skillicons.dev/icons?i=js%2Cpython%2Cr%2Caws%2Cgit%2Cgithub%2Cvscode%2Clatex%2Cobsidian%2Clinux&theme=light" alt="Skill Icons">
   </picture>
   
   <br>
@@ -65,20 +79,12 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
     <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
   </picture>
-  
-  <br>
-
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=black"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/Scikit_Learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=black"></picture>
 
 </div>
 
 ---
   
-### 🎓 Education & Certifications
+### 🎓 Education & Certifications:
 
 | **Certification / Degree** | | **Institution** | | **Status** |
 | :--- | :---: | :--- | :---: | :---: |
@@ -87,17 +93,17 @@ Final-year Statistics student at **UFC** | Technical Project Support @ **Gauss J
 
 ---
 
-### 🌟 Featured Projects:
+### 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[AWS Institutional Architecture](https://github.com/saa-lucas/AWS-Institutional-Architecture)** | Production-ready AWS architecture designed to eliminate single points of failure for an enrollment platform. Features high availability (ALB, Auto Scaling), Multi-AZ database redundancy, and strict security groups, achieving ~42% in cost optimization. | `AWS`, `EC2`, `RDS`, `CloudFront`, `Cloud Architecture` |
-| **[Digital Journalism: Mobile vs. Traffic Volume](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Digital-Journalism-Retention-Analysis)** | Econometric analysis using Multiple Linear Regression and ANCOVA to evaluate reading retention across major Brazilian news portals. Addressed severe multicollinearity (VIF > 40) to isolate the effects of access devices and traffic volume. | `Python`, `Statsmodels`, `Seaborn`, `Econometrics` |
-| **[Vida em Padrões](https://github.com/saa-lucas/Endlos-Planner)** | **Life in Patterns**: A behavioral intelligence system for productivity tracking. Features an automated data pipeline built with Google Apps Script and interactive dashboards for deep pattern analysis and decision-making. | `Apps Script`, `JavaScript`, `Clasp`, `Analytics` |
-| **[Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)** | 2-day intensive data engineering and ETL workshop delivered at UFC. Features the **GaussPay** fintech challenge, advanced Regex cleaning, and deep dives into statistical imputation logic. Includes full documentation and solved notebooks. | `Python`, `Pandas`, `NumPy`, `Regex`, `ETL` |
-| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Technical course designed and delivered during UFC's Statistics Week. Covers data cleaning, EDA, and visualization with real-world datasets. Includes full documentation and **[event records](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/#-event-records)**. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `EDA` |
-| **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | End-to-end HR analytics pipeline. Explores workforce distribution, salary inequality, and age-compensation dynamics through data-driven insights. | `Python`, `Pandas`, `Matplotlib`, `HR Analytics` |
-| **[Spatial Statistical Analysis in R](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Minicourses/V-EPBEST-Spatial-Analysis)** | End-to-end spatial data engineering and geostatistics portfolio. Covers thematic mapping with real Brazilian census data, point process modeling, and spatial interpolation (Kriging). | `R`, `geobr`, `sf`, `geoR`, `Spatial Analytics` |
+| **[AWS Institutional Architecture](https://github.com/saa-lucas/AWS-Institutional-Architecture)** | Designed a highly available AWS architecture for an enrollment platform using Auto Scaling, Application Load Balancer, and Multi-AZ RDS. Estimated a 42% reduction in infrastructure costs while improving fault tolerance. | `AWS` | `EC2` | `RDS` | `CloudFront` |
+| **[Digital Journalism: Mobile vs. Traffic Volume](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Digital-Journalism-Retention-Analysis)** | Investigated reading retention across Brazilian news portals using Multiple Linear Regression and ANCOVA. Addressed severe multicollinearity (VIF > 40) to estimate the effects of traffic volume and access devices. | `Python` | `Statsmodels` | `Seaborn` |
+| **[Vida em Padrões](https://github.com/saa-lucas/Endlos-Planner)** | Developed a personal analytics platform to monitor habits and daily routines. Automated data collection with Google Apps Script and generated dashboards for exploratory and statistical analysis. | `Apps Script` | `JavaScript` | `Google Sheets` |
+| **[Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)** | Designed and delivered a two-day Python workshop covering ETL concepts, regular expressions, and statistical data preprocessing. Developed the GaussPay case study and supporting notebooks. | `Python` | `Pandas` | `NumPy` |
+| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Designed and delivered an introductory Python workshop on data cleaning, exploratory analysis, and visualization using real-world datasets. Produced supporting materials and practical exercises. | `Python` | `Pandas` | `Matplotlib` |
+| **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | Analyzed workforce, salary, and demographic data through exploratory analysis and statistical visualization. Investigated relationships between compensation, age, and organizational structure. | `Python` | `Pandas` | `Matplotlib` |
+| **[Spatial Statistical Analysis in R](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Minicourses/V-EPBEST-Spatial-Analysis)** | Performed spatial statistical analyses in R using Brazilian census data. Applied point process models, thematic mapping, and Kriging interpolation to explore geographic patterns. | `R` | `sf` | `geoR` |
 
 ---
 
