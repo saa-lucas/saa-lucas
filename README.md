@@ -10,8 +10,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&background=0d1117&center=true&vCenter=true&width=500&lines=Statistics+Student+%7C+UFC;Data+Analysis;AWS+%7C+Python+%7C+SQL;Building+Data+Infrastructure">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&lines=Statistics+Student+%7C+UFC;Data+Analysis;AWS+%7C+Python+%7C+SQL;Building+Data+Infrastructure" alt="Typing SVG">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&background=0d1117&center=true&vCenter=true&width=500&lines=Statistics+Student+%7C+UFC;Statistical+Modeling;AWS+%7C+Python+%7C+SQL;Data+Analysis">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&lines=Statistics+Student+%7C+UFC;Statistical+Modeling;AWS+%7C+Python+%7C+SQL;Data+Analysis" alt="Typing SVG">
   </picture>
 </p>
   
@@ -26,7 +26,7 @@
 ### ⚡ About Me:
 <div align="center">
 
-Final-year Statistics student at **Federal University of Ceará (UFC)** and Technical Project Support at **Gauss Jr.** Interested in statistical modeling, data engineering, and cloud computing, with hands-on experience developing analytical solutions using Python, SQL, and AWS.
+Final-year Statistics student at Federal University of Ceará (UFC) and Technical Project Support at Gauss Jr. Focused on statistical modeling, data analysis, and cloud computing, developing analytical solutions using Python, SQL, and AWS.
 
 </div>
 
@@ -37,48 +37,34 @@ Final-year Statistics student at **Federal University of Ceará (UFC)** and Tech
 
 </div>
 
----
+### 💼 Selected Experience:
 
-### 💼 Experience:
+**Technical Project Support** | *Gauss Jr.*
+- Coordinated data-driven technical projects and supported consulting initiatives.
+- Engineered statistical solutions and automated analytical workflows using Python and R.
 
-**Technical Project Support** | **Gauss Jr.**
-* Collaborated on statistical consulting projects for external clients.
-* Developed educational content and delivered practical Python workshops.
-* Assisted with data preprocessing, statistical analysis, and technical documentation.
+**Technical Instructor & Educator** | *Universidade Federal do Ceará (UFC) & Educational Institutions*
+- Designed and delivered intensive Python and R (Survival Analysis) workshops during UFC Statistics Week and the III International School of Biostatistics.
+- Authored practical notebooks covering ETL challenges, Regex cleaning, and statistical imputation methodologies.
+- Taught robotics and programming logic to primary and middle school students for over two years, adapting complex technical concepts for diverse audiences.
 
----
-
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack:
 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cpython%2Cr%2Caws%2Cgit%2Cgithub%2Cvscode%2Clatex%2Cobsidian%2Clinux&theme=dark">
-    <img src="https://skillicons.dev/icons?i=js%2Cpython%2Cr%2Caws%2Cgit%2Cgithub%2Cvscode%2Clatex%2Cobsidian%2Clinux&theme=light" alt="Skill Icons">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cr%2Cpostgres%2Caws%2Cgit%2Clinux%2Cdocker&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python%2Cr%2Cpostgres%2Caws%2Cgit%2Clinux%2Cdocker&theme=light" alt="Skill Icons">
   </picture>
-  
+
   <br>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="Anaconda" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" height="48" alt="Spyder" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Statsmodels-0d1117?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Statsmodels-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Scikit_Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/Scikit_Learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=black"></picture>
 
 </div>
 
@@ -93,19 +79,17 @@ Final-year Statistics student at **Federal University of Ceará (UFC)** and Tech
 
 ---
 
----
-
-### 🌟 Featured Projects
+### 🌟 Featured Projects:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[AWS Institutional Architecture](https://github.com/saa-lucas/AWS-Institutional-Architecture)** | Implements a highly available cloud architecture to mitigate single points of failure within an enrollment platform. Utilizes application load balancers, auto-scaling, and multi-AZ database redundancy while optimizing resource allocation. | `AWS`, `EC2`, `RDS`, `CloudFront` |
-| **[Digital Journalism: Mobile vs. Traffic Volume](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Digital-Journalism-Retention-Analysis)** | Investigates reading retention across Brazilian news portals using multiple linear regression and ANCOVA. Mitigates severe multicollinearity (VIF > 40) to isolate the statistical effects of access devices and traffic volume. | `Python`, `Statsmodels`, `Seaborn` |
-| **[Vida em Padrões](https://github.com/saa-lucas/Endlos-Planner)** | Develops an automated analytics pipeline for longitudinal pattern analysis of personal routines. Integrates Google Apps Script for extraction and interactive dashboards for statistical monitoring. | `Apps Script`, `JavaScript`, `Analytics` |
-| **[Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)** | Designs and delivers a two-day ETL workshop focusing on statistical imputation logic and Regex-based text cleaning. Provides complete technical documentation and solved notebooks for an applied fintech challenge. | `Python`, `Pandas`, `NumPy`, `Regex` |
-| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Structures an introductory technical course on exploratory analysis and visualization using real-world records. Contains lecture materials, practical exercises, and event documentation. | `Python`, `Pandas`, `Matplotlib` |
-| **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | Investigates workforce distribution, salary inequality, and age-compensation relationships through exploratory statistical analysis. Utilizes visualization techniques to evaluate internal HR metrics. | `Python`, `Pandas`, `Matplotlib` |
-| **[Spatial Statistical Analysis in R](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Minicourses/V-EPBEST-Spatial-Analysis)** | Evaluates demographic variables using point process modeling and spatial interpolation (Kriging). Constructs thematic maps based on Brazilian census records. | `R`, `sf`, `geoR` |
+| **[AWS Institutional Architecture](https://github.com/saa-lucas/AWS-Institutional-Architecture)** | Designed a highly available AWS architecture for an enrollment platform. Implemented Multi-AZ RDS redundancy and Auto Scaling (ALB), following AWS Well-Architected Framework principles. | `AWS`, `EC2`, `RDS`, `CloudFront`, `Cloud Architecture` |
+| **[Digital Journalism: Mobile vs. Traffic Volume](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Digital-Journalism-Retention-Analysis)** | Investigated the impact of device type on reading retention using multiple linear regression. Evaluated severe multicollinearity diagnostics (VIF > 40) and interpreted statistical significance controlling for traffic volume. | `Python`, `Statsmodels`, `Seaborn`, `Applied Statistics` |
+| **[Vida em Padrões](https://github.com/saa-lucas/Endlos-Planner)** | Built a self-quantification platform for collecting longitudinal behavioral data via Google Apps Script. Implemented automated pipelines to generate interactive analytical dashboards for continuous productivity monitoring. | `Apps Script`, `JavaScript`, `Data Analysis` |
+| **[Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)** | Designed a 2-day intensive data engineering workshop at UFC. Authored practical notebooks covering ETL workflows, advanced Regex techniques, and statistical imputation methods. | `Python`, `Pandas`, `NumPy`, `Regex`, `Data Engineering` |
+| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Instructed a technical course during UFC's Statistics Week. Created practical materials focusing on programmatic data cleaning, exploratory data analysis (EDA), and data visualization with real-world datasets. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Data Analysis` |
+| **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | Conducted a statistical analysis of workforce data to evaluate employee distribution, salary inequality, and age-compensation dynamics. Developed data visualizations to extract actionable HR insights. | `Python`, `Pandas`, `Matplotlib`, `Data Analysis` |
+| **[Spatial Statistical Analysis in R](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Minicourses/V-EPBEST-Spatial-Analysis)** | Implemented an end-to-end spatial statistics and geospatial analysis portfolio. Executed thematic mapping with Brazilian census data, point process modeling, and spatial interpolation (Kriging). | `R`, `geobr`, `sf`, `geoR`, `Applied Statistics` |
 
 ---
 
