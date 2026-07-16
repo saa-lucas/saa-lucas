@@ -37,14 +37,14 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 </div>
 
-### 💼 Selected Experience:
+### 💼 Selected Experience
 
 **Technical Project Support** | *Gauss Jr.*
 - Coordinated data-driven technical projects and supported consulting initiatives.
-- Engineered statistical solutions and automated analytical workflows using Python and R.
+- Engineered statistical solutions and analytical workflows using Python and R.
 
 **Technical Instructor & Educator** | *Universidade Federal do Ceará (UFC) & Educational Institutions*
-- Designed and delivered intensive Python and R (Survival Analysis) workshops during UFC Statistics Week and the III International School of Biostatistics.
+- Designed and delivered intensive Python data treatment workshops during the UFC Statistics Week (SEST).
 - Authored practical notebooks covering ETL challenges, Regex cleaning, and statistical imputation methodologies.
 - Taught robotics and programming logic to primary and middle school students for over two years, adapting complex technical concepts for diverse audiences.
 
