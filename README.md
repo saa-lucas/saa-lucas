@@ -26,21 +26,21 @@
 ### ⚡ About Me:
 <div align="center">
 
-Final-year Statistics student at Federal University of Ceará (UFC) and Technical Project Support at Gauss Jr. Focused on statistical modeling, data analysis, and cloud computing, developing analytical solutions using Python, SQL, and AWS.
+Final-year Statistics student at Federal University of Ceará (UFC) and Technical Project Lead at Gauss Jr. Focused on statistical modeling, data engineering, and cloud computing, leveraging Python, SQL, and AWS to build analytical and data-driven solutions.
 
 </div>
 
 ### 🎯 Current Focus:
 <div align="center">
 
-`Statistical Modeling` • `AWS Cloud` • `Data Engineering` • `Machine Learning`
+`Statistical Modeling` • `AWS Cloud` • `Data Engineering` • `Machine Learning`  
 
 </div>
 
 ### 💼 Selected Experiences:
 
-**Technical Project Support** | *Gauss Jr.*
-- Coordinated a data-driven technical project and supported consulting activities.
+**Technical Project Lead** | *Gauss Jr.*
+- Led technical consulting projects involving statistical modeling, data analysis, and data processing for organizational clients.
 - Developed statistical solutions and analytical workflows using Python and R.
 
 **Technical Instructor & Educator** | *Universidade Federal do Ceará (UFC) & Educational Institution*
@@ -95,13 +95,13 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[AWS Institutional Architecture](https://github.com/saa-lucas/AWS-Institutional-Architecture)** | Designed a highly available AWS architecture for an enrollment platform. Implemented Multi-AZ RDS redundancy and Auto Scaling (ALB), following AWS Well-Architected Framework principles. | `AWS`, `EC2`, `RDS`, `CloudFront`, `Cloud Architecture` |
+| **[AWS Institutional Architecture](https://github.com/saa-lucas/AWS-Institutional-Architecture)** | Designed a highly available AWS architecture for an enrollment platform following AWS Well-Architected Framework principles. Implemented Multi-AZ RDS, Application Load Balancer (ALB), Auto Scaling, and CloudFront to improve scalability, availability, and resilience. | `AWS`, `EC2`, `RDS`, `CloudFront`, `Cloud Architecture` |
 | **[Digital Journalism: Mobile vs. Traffic Volume](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Digital-Journalism-Retention-Analysis)** | Investigated the impact of device type on reading retention using multiple linear regression. Evaluated severe multicollinearity diagnostics (VIF > 40) and interpreted statistical significance controlling for traffic volume. | `Python`, `Statsmodels`, `Seaborn`, `Regression Analysis` |
-| **[Vida em Padrões](https://github.com/saa-lucas/Endlos-Planner)** | Built a self-quantification platform for collecting longitudinal behavioral data via Google Apps Script. Implemented automated pipelines to generate interactive analytical dashboards for continuous productivity monitoring. | `Apps Script`, `JavaScript`, `Data Analysis` |
-| **[Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)** | Designed a 2-day intensive data engineering workshop at UFC. Authored practical notebooks covering ETL workflows, advanced Regex techniques, and statistical imputation methods. | `Python`, `Pandas`, `NumPy`, `Regex`, `Data Engineering` |
-| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Instructed a technical course during UFC's Statistics Week. Created practical materials focusing on programmatic data cleaning, exploratory data analysis (EDA), and data visualization with real-world datasets. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Data Analysis` |
-| **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | Conducted a statistical analysis of workforce data to evaluate employee distribution, salary inequality, and age-compensation dynamics. Developed data visualizations to extract actionable HR insights. | `Python`, `Pandas`, `Matplotlib`, `Data Analysis` |
-| **[Spatial Statistical Analysis in R](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Minicourses/V-EPBEST-Spatial-Analysis)** | Implemented an end-to-end spatial statistics and geospatial analysis portfolio. Executed thematic mapping with Brazilian census data, point process modeling, and spatial interpolation (Kriging). | `R`, `geobr`, `sf`, `geoR`, `Applied Statistics` |
+| **[Vida em Padrões](https://github.com/saa-lucas/Endlos-Planner)** | Developed a behavioral data collection platform using Google Apps Script. Automated data ingestion, transformation, and dashboard generation to support longitudinal data analysis and productivity monitoring. | `Apps Script`, `JavaScript`, `Data Analysis` |
+| **[Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)** | Designed and delivered a two-day data engineering workshop at UFC. Created practical notebooks covering ETL workflows, Regex-based data cleaning, and statistical imputation techniques. | `Python`, `Pandas`, `NumPy`, `Regex`, `Data Engineering` |
+| **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Designed and delivered an introductory Python workshop during UFC's Statistics Week. Created hands-on notebooks covering data cleaning, exploratory data analysis (EDA), and data visualization using real-world datasets. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Data Analysis` |
+| **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | Conducted a statistical analysis of workforce data to evaluate employee distribution, salary inequality, and age-compensation dynamics. Developed visualizations and analytical reports to extract actionable HR insights. | `Python`, `Pandas`, `Matplotlib`, `Data Analysis` |
+| **[Spatial Statistical Analysis in R](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Minicourses/V-EPBEST-Spatial-Analysis)** | Implemented an end-to-end geospatial analysis workflow using Brazilian census data. Applied thematic mapping, point pattern analysis, and spatial interpolation (Kriging). | `R`, `geobr`, `sf`, `geoR`, `Applied Statistics` |
 
 ---
 
