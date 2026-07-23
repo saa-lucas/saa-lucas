@@ -70,7 +70,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 ---
   
-### 🎓 Education & Certifications:
+### 🎓 Education & Credentials:
 
 | **Certification / Degree** | | **Institution** | | **Status** |
 | :--- | :---: | :--- | :---: | :---: |
