@@ -54,11 +54,13 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cr%2Cpostgres%2Caws%2Cgit%2Clinux%2Cdocker&theme=dark">
-    <img src="https://skillicons.dev/icons?i=python%2Cr%2Cpostgres%2Caws%2Cgit%2Clinux%2Cdocker&theme=light" alt="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=python%2Cr%2Cpostgres%2Caws%2Cgit%2Clinux%2Cdocker&theme=light" alt="Skill Icons" style="vertical-align: middle;">
   </picture>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" width="48" alt="Power BI" style="vertical-align: middle; margin-left: 5px;" />
 
   <br>
 
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=black"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=black"></picture>
