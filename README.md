@@ -75,7 +75,17 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 | **Certification / Degree** | | **Institution** | | **Status** |
 | :--- | :---: | :--- | :---: | :---: |
 | **[B.S. in Statistics](https://dema.ufc.br/pt/estrutura_curricular_estatistica_2010_1/)** | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/logo-est-dark.png"><img src="./img/logo-est-light.png" width="35"></picture></div> | [Universidade Federal do Ceará (UFC)](https://www.ufc.br/a-universidade) | <div align="center"><img src="./img/logo-ufc.png" width="35"></div> | ⚪ 2026 |
-| **[AWS re/Start Graduate](https://www.credly.com/badges/ecc9d3f7-edf5-4a58-93ff-6355cac2927b/linked_in_profile)** | <div align="center"><img src="./img/aws-restart-badge.png" width="35"></div> | [Escola da Nuvem](https://en.escoladanuvem.org/) | <div align="center"><img src="./img/logo-edn.png" width="35"></div> | ⚫ 2026 |
+| **[AWS re/Start Graduate](https://www.credly.com/badges/ecc9d3f7-edf5-4a58-93ff-6355cac2927b/linked_in_profile)** | <div align="center"><img src="./img/aws-re-start-graduate.png" width="35"></div> | [Escola da Nuvem](https://en.escoladanuvem.org/) | <div align="center"><img src="./img/logo-edn.png" width="35"></div> | ⚫ 2026 |
+
+---
+
+### 🏅 Professional Certification:
+
+<div align="center">
+  <a href="https://www.credly.com/badges/ec320c54-6fb9-470c-bb5f-efc8d0cad797/public_url" target="_blank">
+    <img src="./img/aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner">
+  </a>
+</div>
 
 ---
 
