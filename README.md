@@ -23,21 +23,21 @@
 
 ---
 
-### ⚡ About Me:
+### <img src="https://api.iconify.design/fa6-solid/bolt.svg?color=white" width="24" height="24" style="vertical-align: middle;"> About Me:
 <div align="center">
 
 Final-year Statistics student at Federal University of Ceará (UFC) and Technical Project Lead at Gauss Jr. Focused on statistical modeling, data engineering, and cloud computing, leveraging Python, SQL, and AWS to build analytical and data-driven solutions.
 
 </div>
 
-### 🎯 Current Focus:
+### <img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=white" width="24" height="24" style="vertical-align: middle;"> Current Focus:
 <div align="center">
 
 `Statistical Modeling` • `AWS Cloud` • `Data Engineering` • `Machine Learning`  
 
 </div>
 
-### 💼 Selected Experiences:
+### <img src="https://api.iconify.design/fa6-solid/briefcase.svg?color=white" width="24" height="24" style="vertical-align: middle;"> Selected Experiences:
 
 **Technical Project Lead** | *Gauss Jr.*
 - Led technical consulting projects involving statistical modeling, data analysis, and data processing for organizational clients.
@@ -48,7 +48,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 - Authored practical notebooks covering ETL challenges, Regex cleaning, and statistical imputation methodologies.
 - Taught robotics and programming logic to primary and middle school students for over two years, adapting complex technical concepts for diverse audiences.
 
-### 🛠️ My Tech Stack:
+### <img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=white" width="24" height="24" style="vertical-align: middle;"> My Tech Stack:
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 ---
   
-### 🎓 Education & Credentials:
+### <img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=white" width="24" height="24" style="vertical-align: middle;"> Education & Credentials:
 
 | **Certification / Degree** | | **Institution** | | **Status** |
 | :--- | :---: | :--- | :---: | :---: |
@@ -81,7 +81,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 ---
 
-### 🏅 Professional Certification:
+### <img src="https://api.iconify.design/fa6-solid/medal.svg?color=white" width="24" height="24" style="vertical-align: middle;"> Professional Certification:
 
 <div align="center">
   <a href="https://www.credly.com/badges/ec320c54-6fb9-470c-bb5f-efc8d0cad797/public_url" target="_blank">
@@ -91,7 +91,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 ---
 
-### 🌟 Featured Projects:
+### <img src="https://api.iconify.design/fa6-solid/star.svg?color=white" width="24" height="24" style="vertical-align: middle;"> Featured Projects:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -105,7 +105,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 ---
 
-### 📊 GitHub Activity:
+### <img src="https://api.iconify.design/fa6-solid/chart-simple.svg?color=white" width="24" height="24" style="vertical-align: middle;"> GitHub Activity:
 
 <div align="center">
   <picture>
@@ -127,10 +127,6 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
     <img src="https://raw.githubusercontent.com/saa-lucas/saa-lucas/output/snake-light.svg" alt="github contribution grid snake animation">
   </picture>
 </div>
-
----
-<div align="center">
-  <br/>
 
 ---
 <div align="center">
