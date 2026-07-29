@@ -23,21 +23,21 @@
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/bolt.svg?color=white"><img src="https://api.iconify.design/fa6-solid/bolt.svg?color=black" width="24" height="24" style="vertical-align: middle;"></picture> About Me:
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/bolt.svg?color=white"><img src="https://api.iconify.design/fa6-solid/bolt.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> About Me:
 <div align="center">
 
 Final-year Statistics student at Federal University of Ceará (UFC) and Technical Project Lead at Gauss Jr. Focused on statistical modeling, data engineering, and cloud computing, leveraging Python, SQL, and AWS to build analytical and data-driven solutions.
 
 </div>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/bullseye.svg?color=white"><img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=black" width="24" height="24" style="vertical-align: middle;"></picture> Current Focus:
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/bullseye.svg?color=white"><img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> Current Focus:
 <div align="center">
 
 `Statistical Modeling` • `AWS Cloud` • `Data Engineering` • `Machine Learning`  
 
 </div>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/briefcase.svg?color=white"><img src="https://api.iconify.design/fa6-solid/briefcase.svg?color=black" width="24" height="24" style="vertical-align: middle;"></picture> Selected Experiences:
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/briefcase.svg?color=white"><img src="https://api.iconify.design/fa6-solid/briefcase.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> Selected Experiences:
 
 **Technical Project Lead** | *Gauss Jr.*
 - Led technical consulting projects involving statistical modeling, data analysis, and data processing for organizational clients.
@@ -48,7 +48,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 - Authored practical notebooks covering ETL challenges, Regex cleaning, and statistical imputation methodologies.
 - Taught robotics and programming logic to primary and middle school students for over two years, adapting complex technical concepts for diverse audiences.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/toolbox.svg?color=white"><img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=black" width="24" height="24" style="vertical-align: middle;"></picture> My Tech Stack:
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/toolbox.svg?color=white"><img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> My Tech Stack:
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 ---
   
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=white"><img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=black" width="24" height="24" style="vertical-align: middle;"></picture> Education & Credentials:
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=white"><img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> Education & Credentials:
 
 | **Certification / Degree** | | **Institution** | | **Status** |
 | :--- | :---: | :--- | :---: | :---: |
@@ -81,7 +81,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/medal.svg?color=white"><img src="https://api.iconify.design/fa6-solid/medal.svg?color=black" width="24" height="24" style="vertical-align: middle;"></picture> Professional Certification:
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/medal.svg?color=white"><img src="https://api.iconify.design/fa6-solid/medal.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> Professional Certification:
 
 <div align="center">
   <a href="https://www.credly.com/badges/ec320c54-6fb9-470c-bb5f-efc8d0cad797/public_url" target="_blank">
@@ -91,7 +91,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/star.svg?color=white"><img src="https://api.iconify.design/fa6-solid/star.svg?color=black" width="24" height="24" style="vertical-align: middle;"></picture> Featured Projects:
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/star.svg?color=white"><img src="https://api.iconify.design/fa6-solid/star.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> Featured Projects:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -105,7 +105,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/chart-simple.svg?color=white"><img src="https://api.iconify.design/fa6-solid/chart-simple.svg?color=black" width="24" height="24" style="vertical-align: middle;"></picture> GitHub Activity:
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/chart-simple.svg?color=white"><img src="https://api.iconify.design/fa6-solid/chart-simple.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> GitHub Activity:
 
 <div align="center">
   <picture>
@@ -118,8 +118,8 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&background=00000000&stroke=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saa-lucas&background=FFFFFF&stroke=FFFFFF&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=586069&hide_border=true" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=saa-lucas&background=00000000&stroke=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=saa-lucas&background=FFFFFF&stroke=FFFFFF&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=586069&hide_border=true" alt="GitHub Streak" />
   </picture>
 
   <picture>
