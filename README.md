@@ -26,7 +26,7 @@
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/bolt.svg?color=white"><img src="https://api.iconify.design/fa6-solid/bolt.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> About Me:
 <div align="center">
 
-Final-year Statistics student at Federal University of Ceará (UFC) and Technical Project Lead at Gauss Jr. Focused on statistical modeling, data engineering, and cloud computing, leveraging Python, SQL, and AWS to build analytical and data-driven solutions.
+Final-year Statistics undergraduate at the Federal University of Ceará (UFC), with a background in data analysis, statistical modeling, and cloud computing. I work with Python, SQL, R, and AWS to build analytical and data-driven solutions, with a growing focus on data engineering and scalable data workflows.
 
 </div>
 
@@ -39,7 +39,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/briefcase.svg?color=white"><img src="https://api.iconify.design/fa6-solid/briefcase.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> Selected Experiences:
 
-**Technical Project Lead** | *Gauss Jr.*
+**Technical Project Lead & Data Analyst** | *Gauss Jr.* | Jun 2025 - Aug 2026
 - Led technical consulting projects involving statistical modeling, data analysis, and data processing for organizational clients.
 - Developed statistical solutions and analytical workflows using Python and R.
 
@@ -98,7 +98,7 @@ Final-year Statistics student at Federal University of Ceará (UFC) and Technica
 | **[AWS Institutional Architecture](https://github.com/saa-lucas/AWS-Institutional-Architecture)** | Designed a highly available AWS architecture for an enrollment platform following AWS Well-Architected Framework principles. Implemented Multi-AZ RDS, Application Load Balancer (ALB), Auto Scaling, and CloudFront to improve scalability, availability, and resilience. | `AWS`, `EC2`, `RDS`, `CloudFront`, `Cloud Architecture` |
 | **[Digital Journalism: Mobile vs. Traffic Volume](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Digital-Journalism-Retention-Analysis)** | Investigated the impact of device type on reading retention using multiple linear regression. Evaluated severe multicollinearity diagnostics (VIF > 40) and interpreted statistical significance controlling for traffic volume. | `Python`, `Statsmodels`, `Seaborn`, `Regression Analysis` |
 | **[Vida em Padrões](https://github.com/saa-lucas/Endlos-Planner)** | Developed a behavioral data collection platform using Google Apps Script. Automated data ingestion, transformation, and dashboard generation to support longitudinal data analysis and productivity monitoring. | `Apps Script`, `JavaScript`, `Data Analysis` |
-| **[Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)** | Designed and delivered a two-day data engineering workshop at UFC. Created practical notebooks covering ETL workflows, Regex-based data cleaning, and statistical imputation techniques. | `Python`, `Pandas`, `NumPy`, `Regex`, `Data Engineering` |
+| **[Python Data Treatment Course - SEST 2026](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2026-Python-Data-Treatment-Course-SEst)** | Designed and delivered a two-day Python data treatment workshop at UFC, covering ETL workflows, data cleaning, regular expressions, and statistical imputation through practical notebooks. | `Python`, `Pandas`, `NumPy`, `Regex`, `Data Engineering` |
 | **[Python Data Treatment Course - SEST 2025](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Extension-and-Teaching-Assistantship/2025-Python-Data-Treatment-Course-SEst/)** | Designed and delivered an introductory Python workshop during UFC's Statistics Week. Created hands-on notebooks covering data cleaning, exploratory data analysis (EDA), and data visualization using real-world datasets. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Data Analysis` |
 | **[People Analytics Simulation](https://github.com/saa-lucas/people-analytics-simulation)** | Conducted a statistical analysis of workforce data to evaluate employee distribution, salary inequality, and age-compensation dynamics. Developed visualizations and analytical reports to extract actionable HR insights. | `Python`, `Pandas`, `Matplotlib`, `Data Analysis` |
 | **[Spatial Statistical Analysis in R](https://github.com/saa-lucas/UFC-Statistics-Bachelor/tree/main/Minicourses/V-EPBEST-Spatial-Analysis)** | Implemented an end-to-end geospatial analysis workflow using Brazilian census data. Applied thematic mapping, point pattern analysis, and spatial interpolation (Kriging). | `R`, `geobr`, `sf`, `geoR`, `Applied Statistics` |
