@@ -41,7 +41,7 @@ Final-year Statistics undergraduate at the Federal University of Ceará (UFC), w
 
 **Technical Project Lead & Data Analyst** | *Gauss Jr.* | Jun 2025 - Aug 2026
 - Led technical consulting projects involving statistical modeling, data analysis, and data processing for organizational clients.
-- Developed statistical solutions and analytical workflows using Python and R..
+- Developed statistical solutions and analytical workflows using Python and R.
 
 **Technical Instructor & Educator** | *Universidade Federal do Ceará (UFC) & Educational Institution*
 - Designed and delivered intensive Python data treatment workshops across two consecutive editions of the UFC Statistics Week (SEST).
