@@ -49,12 +49,11 @@ Final-year Statistics undergraduate at the Federal University of Ceará (UFC), w
 
 * Led technical consulting projects involving statistical modeling, data analysis, and data processing for organizational clients.
 * Developed statistical solutions and analytical workflows using Python and R.
-* Designed and delivered intensive Python data treatment workshops through Gauss Jr. across two consecutive editions of the UFC Statistics Week (SEST).
+* Designed and delivered intensive Python data treatment workshops through Gauss Jr. across two consecutive editions of the UFC Statistics Week (SEST), including the development of practical notebooks covering ETL challenges, Regex cleaning, and statistical imputation methodologies.
 
-**Technical Instructor & Robotics Educator** | *Gauss Jr. & Private Educational Institution*
+**Robotics Educator** | *Private Educational Institution*
 
-* Authored practical notebooks covering ETL challenges, Regex cleaning, and statistical imputation methodologies as part of Python data treatment workshops at the UFC Statistics Week (SEST).
-* Taught robotics and programming logic to students from early childhood through middle school for over two years at a private educational institution, adapting complex technical concepts for diverse audiences.
+* Taught robotics and programming logic to students from early childhood through middle school for over two years, adapting complex technical concepts for diverse audiences.
 
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/toolbox.svg?color=white"><img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> My Tech Stack:
