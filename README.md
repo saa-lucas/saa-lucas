@@ -39,14 +39,23 @@ Final-year Statistics undergraduate at the Federal University of Ceará (UFC), w
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/briefcase.svg?color=white"><img src="https://api.iconify.design/fa6-solid/briefcase.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> Selected Experiences:
 
+**Research Scholar | Financial Education & Entrepreneurship** | *Federal University of Ceará (UFC)* | Aug 2026 - Present
+
+* Contributed to the research design and data collection strategy for evaluating the impact of Financial Education and Entrepreneurship workshops among beneficiaries of the Pé-de-Meia Program.
+* Participated in the development and review of structured questionnaires and in the planning of pre- and post-workshop data collection and participant pairing strategies while preserving anonymity.
+* Performed preliminary data tabulation, processing, and descriptive statistical analysis of pilot-test data, contributing to methodological discussions on paired-data analysis.
+
 **Technical Project Lead & Data Analyst** | *Gauss Jr.* | Jun 2025 - Aug 2026
-- Led technical consulting projects involving statistical modeling, data analysis, and data processing for organizational clients.
-- Developed statistical solutions and analytical workflows using Python and R.
+
+* Led technical consulting projects involving statistical modeling, data analysis, and data processing for organizational clients.
+* Developed statistical solutions and analytical workflows using Python and R.
 
 **Technical Instructor & Educator** | *Universidade Federal do Ceará (UFC) & Educational Institution*
-- Designed and delivered intensive Python data treatment workshops across two consecutive editions of the UFC Statistics Week (SEST).
-- Authored practical notebooks covering ETL challenges, Regex cleaning, and statistical imputation methodologies.
-- Taught robotics and programming logic to primary and middle school students for over two years, adapting complex technical concepts for diverse audiences.
+
+* Designed and delivered intensive Python data treatment workshops across two consecutive editions of the UFC Statistics Week (SEST).
+* Authored practical notebooks covering ETL challenges, Regex cleaning, and statistical imputation methodologies.
+* Taught robotics and programming logic to primary and middle school students for over two years, adapting complex technical concepts for diverse audiences.
+
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-solid/toolbox.svg?color=white"><img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=black" width="20" height="20" style="vertical-align: middle;"></picture> My Tech Stack:
 
