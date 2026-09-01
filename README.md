@@ -43,7 +43,7 @@ Final-year Statistics undergraduate at the Federal University of Ceará (UFC), w
 
 * Contributed to the research design and data collection strategy for evaluating the impact of Financial Education and Entrepreneurship workshops among beneficiaries of the Pé-de-Meia Program.
 * Participated in the development and review of structured questionnaires and in the planning of pre- and post-workshop data collection and participant pairing strategies while preserving anonymity.
-* Performed preliminary data tabulation, processing, and descriptive statistical analysis of pilot-test data, contributing to methodological discussions on paired-data analysis.
+* Performed preliminary data tabulation and data processing of pre-test data, and participated in descriptive statistical analysis and methodological discussions on paired-data analysis.
 
 **Technical Project Lead & Data Analyst** | *Gauss Jr.* | Jun 2025 - Aug 2026
 
